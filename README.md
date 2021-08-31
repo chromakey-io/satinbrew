@@ -1,6 +1,8 @@
 # satinbrew
 Simple, soft, elegant developer and command line tools for CroSH
 
+There's nothing shiny about this project.  It's just meant to work, and work well.
+
 This is not a derivative work of chromebrew but a ground up implementation of a *real* package and dependency manager (that means you can actually un-install *all* of the dependencies related to your package you want to remove .... and delete  "oprhan" dependencies like you would with dnf or apt).
 
 I'm still working out the core details.  Though we won't be using Sanskrit or ruby.
